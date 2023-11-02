@@ -3,16 +3,16 @@
 ### Задание 1
 
 Получите уникальные названия районов из таблицы с адресами, которые начинаются на “K” и заканчиваются на “a” и не содержат пробелов.  
-!(https://github.com/AndreyFilon/bd-12-03/blob/main/1.jpg)    
+![1](https://github.com/AndreyFilon/bd-12-03/blob/main/1.jpg)    
 
 ### Задание 2
 
 Получите из таблицы платежей за прокат фильмов информацию по платежам, которые выполнялись в промежуток с 15 июня 2005 года по 18 июня 2005 года включительно и стоимость которых превышает 10.00.  
-!(https://github.com/AndreyFilon/bd-12-03/blob/main/2.jpg) 
+![2](https://github.com/AndreyFilon/bd-12-03/blob/main/2.jpg) 
 ### Задание 3
 
 Получите последние пять аренд фильмов.
-!(https://github.com/AndreyFilon/bd-12-03/blob/main/3.jpg)  
+![3](https://github.com/AndreyFilon/bd-12-03/blob/main/3.jpg)  
 
 ### Задание 4
 
@@ -20,7 +20,7 @@
 Сформируйте вывод в результат таким образом:
     все буквы в фамилии и имени из верхнего регистра переведите в нижний регистр,
     замените буквы 'll' в именах на 'pp'.  
-!(https://github.com/AndreyFilon/bd-12-03/blob/main/4.jpg)  
+![4](https://github.com/AndreyFilon/bd-12-03/blob/main/4.jpg)  
 
 ### Задание 5*
 
